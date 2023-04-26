@@ -1,2 +1,1 @@
-# gyunLogger
-python Keylogger (socket)
+# python Keylogger (socket) 
